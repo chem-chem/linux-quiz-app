@@ -1,0 +1,402 @@
+[
+  {
+    "question": "カレントディレクトリの内容を一覧表示するコマンドは？",
+    "answer": "ls"
+  },
+  {
+    "question": "現在の作業ディレクトリを変更するコマンドは？",
+    "answer": "cd"
+  },
+  {
+    "question": "現在のディレクトリの絶対パスを表示するコマンドは？",
+    "answer": "pwd"
+  },
+  {
+    "question": "新しいディレクトリを作成するコマンドは？",
+    "answer": "mkdir"
+  },
+  {
+    "question": "空ファイルを作成またはファイルのタイムスタンプを更新するコマンドは？",
+    "answer": "touch"
+  },
+  {
+    "question": "ファイルやディレクトリをコピーするコマンドは？",
+    "answer": "cp"
+  },
+  {
+    "question": "ファイルやディレクトリの移動／名前変更を行うコマンドは？",
+    "answer": "mv"
+  },
+  {
+    "question": "ファイルを削除するコマンドは？",
+    "answer": "rm"
+  },
+  {
+    "question": "空のディレクトリを削除するコマンドは？",
+    "answer": "rmdir"
+  },
+  {
+    "question": "階層内でファイルやディレクトリを検索するコマンドは？",
+    "answer": "find"
+  },
+  {
+    "question": "ファイルやディレクトリのアクセス権を変更するコマンドは？",
+    "answer": "chmod"
+  },
+  {
+    "question": "ファイルやディレクトリの所有者やグループを変更するコマンドは？",
+    "answer": "chown"
+  },
+  {
+    "question": "ファイルのハードリンクやシンボリックリンクを作成するコマンドは？",
+    "answer": "ln"
+  },
+  {
+    "question": "ファイルの内容を標準出力に連結して表示するコマンドは？",
+    "answer": "cat"
+  },
+  {
+    "question": "ファイルの先頭部分を表示するコマンドは？",
+    "answer": "head"
+  },
+  {
+    "question": "ファイルの末尾部分を表示するコマンドは？",
+    "answer": "tail"
+  },
+  {
+    "question": "ファイルをページ単位で閲覧できるコマンドは？",
+    "answer": "less"
+  },
+  {
+    "question": "ファイルの行数や文字数などをカウントするコマンドは？",
+    "answer": "wc"
+  },
+  {
+    "question": "テキストをソートするコマンドは？",
+    "answer": "sort"
+  },
+  {
+    "question": "重複行を削除して一意の行を表示するコマンドは？",
+    "answer": "uniq"
+  },
+  {
+    "question": "正規表現でパターンを検索して行を抽出するコマンドは？",
+    "answer": "grep"
+  },
+  {
+    "question": "列単位の処理や集計ができるテキスト処理言語のコマンドは？",
+    "answer": "awk"
+  },
+  {
+    "question": "ストリームエディタでテキストを置換・削除するコマンドは？",
+    "answer": "sed"
+  },
+  {
+    "question": "テキストから特定の列を切り出すコマンドは？",
+    "answer": "cut"
+  },
+  {
+    "question": "複数ファイルの内容を横方向に貼り付けるコマンドは？",
+    "answer": "paste"
+  },
+  {
+    "question": "2つのファイルの差分を表示するコマンドは？",
+    "answer": "diff"
+  },
+  {
+    "question": "文字の変換や削除を行うコマンドは？",
+    "answer": "tr"
+  },
+  {
+    "question": "標準入力を表示しつつファイルにも書き込むコマンドは？",
+    "answer": "tee"
+  },
+  {
+    "question": "共通のキーで2つのソート済みファイルを結合するコマンドは？",
+    "answer": "join"
+  },
+  {
+    "question": "大きなファイルを分割するコマンドは？",
+    "answer": "split"
+  },
+  {
+    "question": "複数ファイルをまとめてアーカイブするコマンドは？",
+    "answer": "tar"
+  },
+  {
+    "question": "ファイルやディレクトリをzip形式で圧縮するコマンドは？",
+    "answer": "zip"
+  },
+  {
+    "question": "zip形式のアーカイブを展開するコマンドは？",
+    "answer": "unzip"
+  },
+  {
+    "question": "ファイルをgzip形式で圧縮するコマンドは？",
+    "answer": "gzip"
+  },
+  {
+    "question": "gzip圧縮されたファイルを展開するコマンドは？",
+    "answer": "gunzip"
+  },
+  {
+    "question": "bzip2形式で圧縮するコマンドは？",
+    "answer": "bzip2"
+  },
+  {
+    "question": "xz形式で圧縮・展開するコマンドは？",
+    "answer": "xz"
+  },
+  {
+    "question": "ネットワーク接続を確認するためにホストにICMPエコーを送るコマンドは？",
+    "answer": "ping"
+  },
+  {
+    "question": "リモートサーバーに安全に接続するためのプロトコルを利用するコマンドは？",
+    "answer": "ssh"
+  },
+  {
+    "question": "リモートホスト間で安全にファイルをコピーするコマンドは？",
+    "answer": "scp"
+  },
+  {
+    "question": "ファイルやディレクトリを効率的に同期・バックアップするコマンドは？",
+    "answer": "rsync"
+  },
+  {
+    "question": "HTTPやFTPでファイルを取得するためのコマンドは？",
+    "answer": "wget"
+  },
+  {
+    "question": "URLにアクセスしてデータを取得・送信する汎用コマンドは？",
+    "answer": "curl"
+  },
+  {
+    "question": "ネットワークインターフェースの設定や状態を表示する従来のコマンドは？",
+    "answer": "ifconfig"
+  },
+  {
+    "question": "IPアドレスやルーティングを管理する現代的なコマンドは？",
+    "answer": "ip"
+  },
+  {
+    "question": "ネットワーク接続やルーティングテーブルを表示するコマンドは？",
+    "answer": "netstat"
+  },
+  {
+    "question": "ソケット統計情報を表示するコマンドは？",
+    "answer": "ss"
+  },
+  {
+    "question": "DNSサーバーから名前解決情報を取得するコマンドは？",
+    "answer": "dig"
+  },
+  {
+    "question": "SSHを使ってファイル転送を行う対話型クライアントは？",
+    "answer": "sftp"
+  },
+  {
+    "question": "ネットワーク経路を調査して経路上の各ホップを表示するコマンドは？",
+    "answer": "traceroute"
+  },
+  {
+    "question": "現在稼働中のプロセスを一覧表示するコマンドは？",
+    "answer": "ps"
+  },
+  {
+    "question": "プロセスやシステムの状態をリアルタイムに表示するコマンドは？",
+    "answer": "top"
+  },
+  {
+    "question": "カラフルで対話的なプロセスモニタを提供するコマンドは？",
+    "answer": "htop"
+  },
+  {
+    "question": "プロセスにシグナルを送って終了させるコマンドは？",
+    "answer": "kill"
+  },
+  {
+    "question": "プロセス名を指定して複数のプロセスを終了するコマンドは？",
+    "answer": "killall"
+  },
+  {
+    "question": "プロセスの優先度を変更して実行するコマンドは？",
+    "answer": "nice"
+  },
+  {
+    "question": "実行中プロセスの優先度（nice値）を変更するコマンドは？",
+    "answer": "renice"
+  },
+  {
+    "question": "バックグラウンドジョブの一覧を表示するコマンドは？",
+    "answer": "jobs"
+  },
+  {
+    "question": "バックグラウンドジョブをフォアグラウンドに戻すコマンドは？",
+    "answer": "fg"
+  },
+  {
+    "question": "フォアグラウンドジョブをバックグラウンドで実行させるコマンドは？",
+    "answer": "bg"
+  },
+  {
+    "question": "ファイルシステムのディスク使用量を表示するコマンドは？",
+    "answer": "df"
+  },
+  {
+    "question": "ファイルやディレクトリのサイズを表示するコマンドは？",
+    "answer": "du"
+  },
+  {
+    "question": "システムのメモリ使用状況を表示するコマンドは？",
+    "answer": "free"
+  },
+  {
+    "question": "システムの稼働時間とロードアベレージを表示するコマンドは？",
+    "answer": "uptime"
+  },
+  {
+    "question": "カーネルのメッセージリングバッファを表示するコマンドは？",
+    "answer": "dmesg"
+  },
+  {
+    "question": "システムで開いているファイルを一覧表示するコマンドは？",
+    "answer": "lsof"
+  },
+  {
+    "question": "メモリやプロセスなどのシステム統計情報を表示するコマンドは？",
+    "answer": "vmstat"
+  },
+  {
+    "question": "新しいユーザーアカウントを作成するコマンドは？",
+    "answer": "useradd"
+  },
+  {
+    "question": "既存のユーザーアカウントを削除するコマンドは？",
+    "answer": "userdel"
+  },
+  {
+    "question": "既存のユーザーアカウントを変更するコマンドは？",
+    "answer": "usermod"
+  },
+  {
+    "question": "ユーザーのパスワードを変更するコマンドは？",
+    "answer": "passwd"
+  },
+  {
+    "question": "新しいグループを作成するコマンドは？",
+    "answer": "groupadd"
+  },
+  {
+    "question": "ユーザーIDやグループIDなどを表示するコマンドは？",
+    "answer": "id"
+  },
+  {
+    "question": "ログインしているユーザーを表示するコマンドは？",
+    "answer": "who"
+  },
+  {
+    "question": "他のユーザーに切り替えるコマンドは？",
+    "answer": "su"
+  },
+  {
+    "question": "Debian系ディストリビューションでパッケージを管理する旧来のコマンドは？",
+    "answer": "apt-get"
+  },
+  {
+    "question": "Red Hat系ディストリビューションでパッケージを管理するコマンドは？",
+    "answer": "yum"
+  },
+  {
+    "question": "FedoraやRHELの新しいパッケージ管理ツールは？",
+    "answer": "dnf"
+  },
+  {
+    "question": "Arch Linuxのパッケージ管理ツールは？",
+    "answer": "pacman"
+  },
+  {
+    "question": "アプリケーションをスナップ形式でインストール・管理するコマンドは？",
+    "answer": "snap"
+  },
+  {
+    "question": "他のユーザーの権限でコマンドを実行するためのコマンドは？",
+    "answer": "sudo"
+  },
+  {
+    "question": "コマンドに短い別名を付けるためのシェル機能／コマンドは？",
+    "answer": "alias"
+  },
+  {
+    "question": "コマンド履歴を表示するコマンドは？",
+    "answer": "history"
+  },
+  {
+    "question": "システムのホスト名を表示または設定するコマンドは？",
+    "answer": "hostname"
+  },
+  {
+    "question": "文字列や変数の内容を標準出力に表示するコマンドは？",
+    "answer": "echo"
+  },
+  {
+    "question": "環境変数を一覧表示するコマンドは？",
+    "answer": "env"
+  },
+  {
+    "question": "シェル変数を環境変数としてエクスポートするコマンドは？",
+    "answer": "export"
+  },
+  {
+    "question": "現在のシェルにスクリプトを読み込んで環境を更新するコマンドは？",
+    "answer": "source"
+  },
+  {
+    "question": "定期的なタスクをスケジュールするテーブルを編集するコマンドは？",
+    "answer": "crontab"
+  },
+  {
+    "question": "指定した時間に一度だけコマンドを実行するジョブを登録するコマンドは？",
+    "answer": "at"
+  },
+  {
+    "question": "systemdシステムやサービスユニットを管理するコマンドは？",
+    "answer": "systemctl"
+  },
+  {
+    "question": "System V init スクリプトを使ってサービスを起動・停止するコマンドは？",
+    "answer": "service"
+  },
+  {
+    "question": "systemdのログを閲覧するコマンドは？",
+    "answer": "journalctl"
+  },
+  {
+    "question": "システムを安全にシャットダウンするコマンドは？",
+    "answer": "shutdown"
+  },
+  {
+    "question": "システムを再起動するコマンドは？",
+    "answer": "reboot"
+  },
+  {
+    "question": "バージョン管理システム Git の主要コマンドは？",
+    "answer": "git"
+  },
+  {
+    "question": "Makefileに従ってビルドを実行するコマンドは？",
+    "answer": "make"
+  },
+  {
+    "question": "C 言語プログラムをコンパイルするデフォルトのGNUコンパイラは？",
+    "answer": "gcc"
+  },
+  {
+    "question": "Pythonスクリプトを実行するコマンドは？",
+    "answer": "python"
+  },
+  {
+    "question": "Pythonパッケージをインストール・管理するコマンドは？",
+    "answer": "pip"
+  }
+]

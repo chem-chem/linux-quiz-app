@@ -1,0 +1,16 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "linux-quiz-app"
+version = "0.1.0"
+description = "One-question quiz app to learn Linux commands."
+readme = "README.md"
+requires-python = ">=3.9"
+
+[project.scripts]
+linux-quiz = "linux_quiz_app.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["linux_quiz_app"]
